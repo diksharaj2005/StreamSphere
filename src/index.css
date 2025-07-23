@@ -59,8 +59,9 @@ body::-webkit-scrollbar{
   flex-direction: column;
   text-align: center;
   color: white;
-  margin-top:-2rem;
+  margin-top:-5rem;
   padding: 20px;
+  position:relative
 }
 .main_content h1{
   font-size: 3.5rem;
@@ -141,7 +142,7 @@ body::-webkit-scrollbar{
   margin-top: 5rem;
   background-color: rgba(0, 0, 0, 0.4);
   text-align: center;
-  position: absolute; 
+
   bottom: 0;
   left: 0;
    position: fixed;
