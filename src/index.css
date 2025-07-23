@@ -59,7 +59,7 @@ body::-webkit-scrollbar{
   flex-direction: column;
   text-align: center;
   color: white;
-  margin-top:-5rem;
+  margin-top:-7rem;
   padding: 20px;
   position:relative
 }
@@ -142,10 +142,10 @@ body::-webkit-scrollbar{
   margin-top: 5rem;
   background-color: rgba(0, 0, 0, 0.4);
   text-align: center;
-
+   position: sticky;
   bottom: 0;
   left: 0;
-   position: fixed;
+   
   z-index: 1;
 } 
 
