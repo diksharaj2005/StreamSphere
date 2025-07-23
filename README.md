@@ -25,6 +25,36 @@
 
 ---
 
+
+📁 Project Structure
+streamsphere/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── VideoRoom.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+└── vite.config.js
+
+-------
+
+📸 Screenshots
+
+![StreamSphere Preview](screenshots/preview.png)
+
+
+-------
+
+🌐 Live Demo
+Coming Soon
+(You can add your Netlify or Vercel deployment link here)
+
+
+----
+
 ## 📦 Installation
 
 ```bash
@@ -42,26 +72,6 @@ npm run dev'''
 
 
 
-🌐 Live Demo
-Coming Soon
-(You can add your Netlify or Vercel deployment link here)
-
-
-📁 Project Structure
-streamsphere/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── VideoRoom.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── vite.config.js
 
 
 
-📸 Screenshots
-
-![StreamSphere Preview](screenshots/preview.png)
