@@ -23,21 +23,7 @@
 - **Vite**
 - **HTML / CSS**
 
----
 
-
-📁 Project Structure
-streamsphere/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── VideoRoom.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── vite.config.js
 
 
 -------
