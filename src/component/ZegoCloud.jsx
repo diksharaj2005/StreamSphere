@@ -36,7 +36,8 @@ const ZegoCloud = () => {
         margin: 0,
         padding: 0,
         marginBottom:"10px",
-        zIndex: 1000, 
+        zIndex: 1000,
+        backgroundColor:"white"
       }}>
 
   </div>
