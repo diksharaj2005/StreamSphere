@@ -36,15 +36,16 @@ const ZegoCloud = () => {
     boxSizing: "border-box" 
   }}>
     <div
-      ref={meeting}
+       ref={meeting}
       style={{
-        // width: "100%",
-        // maxWidth: "900px",  
-        // minWidth: "300px",
-        // overflow: "hidden",
-        // borderRadius: "12px",
-        // boxShadow: "0 0 20px rgba(0,0,0,0.2)",
-        // backgroundColor: "white"
+        position: "fixed",
+        top: 0,
+        left: 0,
+        width: "100vw",
+        height: "100vh",
+        margin: 0,
+        padding: 0,
+        zIndex: 1000,
       }}
     ></div>
   </div>
