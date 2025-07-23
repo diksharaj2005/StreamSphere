@@ -33,6 +33,14 @@
 ![StreamSphere Preview](src/assets/image.png)
 
 
+*******************************
+![StreamSphere Preview](src/assets/pic2.png)
+
+
+*******************************
+![StreamSphere Preview](src/assets/pic1.png)
+
+
 -------
 
 🌐 Live Demo
