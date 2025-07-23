@@ -44,8 +44,7 @@
 -------
 
 🌐 Live Demo
-Coming Soon
-(You can add your Netlify or Vercel deployment link here)
+Link:(https://streamspherelive.netlify.app/)
 
 
 ----
