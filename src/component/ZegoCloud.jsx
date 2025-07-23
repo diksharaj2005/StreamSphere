@@ -25,18 +25,8 @@ const ZegoCloud = () => {
   
   }
   return (
-  <div style={{ 
-    display: "flex", 
-    justifyContent: "center", 
-    alignItems: "center", 
-    width: "100vw", 
-    height: "100vh", 
-    overflowX: "hidden", 
-    padding: "1rem", 
-    boxSizing: "border-box" 
-  }}>
-    <div
-       ref={meeting}
+  <div
+      ref={meeting}
       style={{
         position: "fixed",
         top: 0,
@@ -45,9 +35,10 @@ const ZegoCloud = () => {
         height: "100vh",
         margin: 0,
         padding: 0,
-        zIndex: 1000,
-      }}
-    ></div>
+        marginBottom:"10px",
+        zIndex: 1000, 
+      }}>
+
   </div>
   )
 }
