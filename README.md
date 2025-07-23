@@ -1,12 +1,67 @@
-# React + Vite
+# 🌐 StreamSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**StreamSphere** is a modern, real-time video conferencing web application built with **React** and **ZegoUIKitPrebuilt** by **ZegoCloud**. It allows users to create or join secure video rooms with ease — perfect for online meetings, casual hangouts, or remote collaboration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔗 One-click room creation and joining via unique room IDs
+- 🎥 High-definition video and audio streaming
+- 🔒 Secure and dynamic video rooms
+- 👥 Multi-participant support
+- ⚡ Fast, responsive, and mobile-friendly UI
+- 🌍 No downloads or plugins required
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **ZegoUIKitPrebuilt SDK (ZegoCloud)**
+- **React Router DOM**
+- **Vite**
+- **HTML / CSS**
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/diksharaj2005/streamsphere.git
+
+# Navigate into the project directory
+cd streamsphere
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev'''
+
+
+
+🌐 Live Demo
+Coming Soon
+(You can add your Netlify or Vercel deployment link here)
+
+
+📁 Project Structure
+streamsphere/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── VideoRoom.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+
+📸 Screenshots
+
+![StreamSphere Preview](screenshots/preview.png)
