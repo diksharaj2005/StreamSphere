@@ -19,7 +19,7 @@ const ZegoCloud = () => {
           
         },
         sharedLinks:[{name:'meeting link',
-        url:`https://localhost:5173/room/${id}`
+        url:`https://streamspherelive.netlify.app/room/${id}`
         }]
       });
   
