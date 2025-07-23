@@ -59,6 +59,7 @@ body::-webkit-scrollbar{
   flex-direction: column;
   text-align: center;
   color: white;
+  margin-top:-2rem;
   padding: 20px;
 }
 .main_content h1{
