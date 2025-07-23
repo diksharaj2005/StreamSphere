@@ -30,7 +30,7 @@
 
 📸 Screenshots
 
-![StreamSphere Preview](screenshots/preview.png)
+![StreamSphere Preview](src/assets/image.png)
 
 
 -------
