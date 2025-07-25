@@ -1,21 +1,21 @@
-# 🌐 StreamSphere
+#  StreamSphere
 
 **StreamSphere** is a modern, real-time video conferencing web application built with **React** and **ZegoUIKitPrebuilt** by **ZegoCloud**. It allows users to create or join secure video rooms with ease — perfect for online meetings, casual hangouts, or remote collaboration.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔗 One-click room creation and joining via unique room IDs
-- 🎥 High-definition video and audio streaming
-- 🔒 Secure and dynamic video rooms
-- 👥 Multi-participant support
-- ⚡ Fast, responsive, and mobile-friendly UI
-- 🌍 No downloads or plugins required
+- One-click room creation and joining via unique room IDs
+- High-definition video and audio streaming
+- Secure and dynamic video rooms
+- Multi-participant support
+- Fast, responsive, and mobile-friendly UI
+- No downloads or plugins required
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **React.js**
 - **ZegoUIKitPrebuilt SDK (ZegoCloud)**
@@ -43,13 +43,13 @@
 
 -------
 
-🌐 Live Demo
+ Live Demo
 Link:(https://streamspherelive.netlify.app/)
 
 
 ----
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
