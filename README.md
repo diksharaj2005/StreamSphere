@@ -40,6 +40,8 @@ Screenshots
 *******************************
 ![StreamSphere Preview](src/assets/pic1.png)
 
+<img width="951" height="442" alt="Image" src="https://github.com/user-attachments/assets/340e6702-c380-4a38-aee3-2e26f6205117" />
+
 
 -------
 
